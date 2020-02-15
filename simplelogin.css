@@ -1,0 +1,71 @@
+/*Bukasoft/home.css*/
+
+body{
+	background-image:url(01-ParLour.jpg);
+	background-color:pink;
+
+}
+.menu{
+	font-size:2em;
+	
+}
+.form{
+	text-align:center;
+	float:100px;
+}
+#caption{
+	font-size:4.3em;
+	font-weight:21px;
+	color:gray;
+	padding-top:1em;
+	padding-right:3em;
+	padding-bottom:0.7em;
+	text-decoration:none;
+	font-family:cursive;
+}
+#line2{
+	font-size:3.2em;
+	padding-left:2em;
+	
+}
+form{
+	text-align:left;
+	background-image:url ("C:/Users/pc/Documents/Bukasoft/Practice/01-ParLour.jpg");
+	position:relative;
+	color:maroon;
+	
+}
+#email{
+	padding-right:5.1em;
+}
+#password{
+	padding-right:3.7em;
+}
+#form-me{
+padding-left:17.8em;
+}
+#date{
+	padding-right:4.8em;
+}
+#firstname{
+padding-right:2.9em;
+}
+#lastname{
+padding-right:3.0em;
+}
+#confirmpassword{
+padding-right:0.1em;
+}
+#buttonone{
+	background-color:#1f1;
+	color:white;
+	padding-right:1.9em;
+	padding-top:0.5em;
+	padding-bottom:0.5em;
+}
+#author{
+	padding-top:7em;
+    color:maroon;
+}
+	
+

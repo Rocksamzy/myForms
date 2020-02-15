@@ -1,0 +1,49 @@
+.main{
+    background-image:url(images.jpeg);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+     }
+   ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      overflow:hidden;
+      border: 1px solid #e7e7e7;
+      background-color: #919191;
+      display: inline-block;
+      
+  }
+  
+  li a {
+      float:left;
+      display: block;
+      color: #000;
+      text-align: center;
+      padding: 8px 16px 8px 16px;
+      text-decoration: none;
+  }
+  
+  /* Change the link color on hover */
+  li a:hover {
+      background-color: #1f1;
+      color: white;
+      text-decoration:overline;
+  }
+  table{
+      border:2;
+      border-color:pink;
+      padding:;
+  }
+  caption{
+      text-decoration:underline;
+      font-family:algerian;
+      color:blue;
+  }
+  fieldset{
+      float:right;
+      padding:3;
+      background:pink;
+  }
+  
