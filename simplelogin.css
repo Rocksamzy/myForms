@@ -1,9 +1,10 @@
-/*Bukasoft/home.css*/
+/*Login/simplelogin.css*/
 
 body{
-	background-image:url(01-ParLour.jpg);
-	background-color:pink;
-
+    background-color:pink;
+}
+marquee{
+    font-variant: small-caps;
 }
 .menu{
 	font-size:2em;
@@ -21,7 +22,7 @@ body{
 	padding-right:3em;
 	padding-bottom:0.7em;
 	text-decoration:none;
-	font-family:cursive;
+    font-family:cursive;
 }
 #line2{
 	font-size:3.2em;
@@ -30,7 +31,7 @@ body{
 }
 form{
 	text-align:left;
-	background-image:url ("C:/Users/pc/Documents/Bukasoft/Practice/01-ParLour.jpg");
+	/*background: silver;*/
 	position:relative;
 	color:maroon;
 	
@@ -58,14 +59,28 @@ padding-right:0.1em;
 }
 #buttonone{
 	background-color:#1f1;
-	color:white;
+	color: white;
 	padding-right:1.9em;
 	padding-top:0.5em;
-	padding-bottom:0.5em;
+    padding-bottom:0.5em;
+}
+#buttonone a:hover{
+    color: yellow;
+}
+#buttonone a{
+    text-decoration: none;
+    color: white;
+}
+#Register{
+    text-decoration: none;
+    color: black;
 }
 #author{
 	padding-top:7em;
     color:maroon;
 }
-	
-
+#active{
+    padding-left: 24.1em;
+    color: black;
+    text-decoration: none;
+}

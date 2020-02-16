@@ -1,9 +1,4 @@
-.main{
-    background-image:url(images.jpeg);
-    background-repeat: no-repeat;
-    background-position: right top;
-    background-attachment: fixed;
-     }
+/*Login/index.css*/
    ul {
       list-style-type: none;
       margin: 0;
@@ -30,20 +25,9 @@
       background-color: #1f1;
       color: white;
       text-decoration:overline;
+      text-decoration-color: rgb(255, 255, 0);
+      font-size: 0.9em;
+      font-variant: small-caps;
+      font-family: "Oswald","Helvetica Neue","Arial","Helvetica",sans-serif;
   }
-  table{
-      border:2;
-      border-color:pink;
-      padding:;
-  }
-  caption{
-      text-decoration:underline;
-      font-family:algerian;
-      color:blue;
-  }
-  fieldset{
-      float:right;
-      padding:3;
-      background:pink;
-  }
-  
+ 
